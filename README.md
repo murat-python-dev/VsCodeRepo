@@ -61,6 +61,3 @@ Eğer projeye katkı sağlamak istiyorsanız:
 4. `git push` ile değişikliklerinizi gönderin  
 5. Bir **pull request** oluşturun  
 
-## 📜 Lisans
-Bu proje **MIT Lisansı** altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
-
